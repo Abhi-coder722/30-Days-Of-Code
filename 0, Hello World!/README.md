@@ -19,7 +19,7 @@ Print Hello, World. on the first line, and the contents of inputString on the se
 <h4>Sample Input</h4>
 
 Welcome to 30 Days of Code!
-Sample Output
+<h4>Sample Output</h4>
 
 Hello, World. 
 Welcome to 30 Days of Code!
