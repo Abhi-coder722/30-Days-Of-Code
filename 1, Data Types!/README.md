@@ -1,4 +1,4 @@
-</h4>Objective</h4>
+<h4>Objective</h4>
 Today, we're discussing data types. Check out the Tutorial tab for learning materials and an instructional video!
 
 <h4>Task</h4>
