@@ -32,9 +32,9 @@ The third line has an integer, tax (the percentage of mealcost being added as ta
 
 <h4>Sample Input</h4>
 
-12.00
-20
-8
+12.00<br>
+20<br>
+8<br>
 <h4>Sample Output</h4>
 
 15
